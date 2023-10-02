@@ -16,7 +16,7 @@
 
 The dashboard can be accessed on the link provided below:
 
-[Power BI Service Link](https://app.powerbi.com/view?r=eyJrIjoiMDYwMjAxZjctMTMxNi00ZTRmLWI5NTMtOWQwODBlNDJiNjVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Power BI Service Link](https://app.powerbi.com/view?r=eyJrIjoiMDYwMjAxZjctMTMxNi00ZTRmLWI5NTMtOWQwODBlNDJiNjVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 
 ## PROBLEM STATEMENT
 
