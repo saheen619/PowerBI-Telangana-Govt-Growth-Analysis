@@ -12,7 +12,7 @@
 
 ## Dashboard :
 
-![Banner - PBIX Report](hhttps://github.com/saheen619/PowerBI-Telangana-Govt-Growth-Analysis/blob/main/misc/Banner/Banner.jpg?raw=true)   
+![Banner - PBIX Report](https://github.com/saheen619/PowerBI-Telangana-Govt-Growth-Analysis/blob/main/misc/Banner/Banner.jpg?raw=true)   
 
 The dashboard can be accessed on the link provided below:
 
